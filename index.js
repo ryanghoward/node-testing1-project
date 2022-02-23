@@ -178,10 +178,10 @@ class Car {
  *
  * EXAMPLE
  * isEvenNumberAsync(2).then(result => {
- *    // result is true
+ *    result is true
  * })
  * isEvenNumberAsync(3).then(result => {
- *    // result is false
+ *    result is false
  * })
  */
 function isEvenNumberAsync(number) {
